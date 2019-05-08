@@ -21,10 +21,6 @@ Apache Maven can be used in environments where common build tools like GNU Make 
 
     Extensible via plug-ins: The Maven build system is extensible via plug-ins, which allows to keep the Maven core small. The Maven core does for example not know how to compile Java source code, this is handled by the compiler plug-in.
 
-# 1.3. Maven Central
-
-Maven Central is an open repository provided by the company Sonatype. This repository hosts libraries which can be used in your build. By default, a Maven build uses Maven Central to search for required libraries.
-
 
 # 2.What is a Build Tool?
 
