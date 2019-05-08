@@ -61,3 +61,7 @@ To install Maven on your own system (computer), go to the Maven download page an
     Open a command prompt and type 'mvn -version' (without quotes) and press enter.
 
 After typing in the mvn -version command you should be able to see Maven execute, and the version number of Maven written out to the command prompt. 
+
+# 3. Maven Settings File
+
+http://maven.apache.org/settings.html 
