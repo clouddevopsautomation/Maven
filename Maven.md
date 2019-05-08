@@ -65,3 +65,8 @@ After typing in the mvn -version command you should be able to see Maven execute
 # 3. Maven Settings File
 
 http://maven.apache.org/settings.html 
+
+
+# Maven Quick reference
+
+http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html 
