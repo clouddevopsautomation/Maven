@@ -50,6 +50,8 @@ To install Maven on your own system (computer), go to the Maven download page an
     
     Download and unzip Maven.
     
+    URL : http://mirrors.estointernet.in/apache/maven/maven-3/3.6.1/binaries/apache-maven-3.6.1-bin.zip
+    
     Set the M2_HOME environment variable to point to the directory you unzipped Maven to.
     
     Set the M2 environment variable to point to M2_HOME/bin (%M2_HOME%\bin on Windows, $M2_HOME/bin on unix).
