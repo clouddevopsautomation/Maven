@@ -46,6 +46,8 @@ To install Maven on your own system (computer), go to the Maven download page an
 
     Set the JAVA_HOME environment variable to point to a valid Java SDK (e.g. Java 8).
     
+    URL : https://download.oracle.com/otn/java/jdk/8u221-b11/230deb18db3e4014bb8e3e8324f81b43/jdk-8u221-windows-x64.exe
+    
     Download and unzip Maven.
     
     Set the M2_HOME environment variable to point to the directory you unzipped Maven to.
